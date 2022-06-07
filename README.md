@@ -3,7 +3,7 @@ Shopping Cart Application With Blazor Web Assembly with Payment gateway.
 
 # Technologies
 
-1. Visual Studio Enterprisr 2022 Prev
+1. Visual Studio Enterprise 2022 Prev
 2. .Net 7 Prev
 3. Sql Server 2022
 4. Blazor WebAssembly
