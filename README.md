@@ -43,3 +43,4 @@ Build failed.`
 -  Using Entity Framework Core DbSet Generic Type 
 -  Register ShopOnlineDbContext class for Dependency Injection
 -  Generate To Migration Using EF Core
+-  update-database
