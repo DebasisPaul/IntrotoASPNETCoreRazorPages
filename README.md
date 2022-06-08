@@ -28,7 +28,7 @@ Build started...
 Build failed.`
 - Solution: Open ShopOnlineDbContext.cs file Then Check the code & find the error. Two error found at UserName. Open User.cs Entities. Correct the int to string type.
 
-# Part
+# Part-1 (Initial SetUp)
 
 -  Introduction
 -  Tools
@@ -44,3 +44,6 @@ Build failed.`
 -  Register ShopOnlineDbContext class for Dependency Injection
 -  Generate To Migration Using EF Core
 -  update-database
+-  Check SSMS 19 Prev.
+
+# Part-2 (Focus on building SCA Using Blazor WebAssembly & Rest ful Web Api)
