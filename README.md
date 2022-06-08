@@ -36,3 +36,4 @@ Shopping Cart Application With Blazor Web Assembly with Payment gateway.
 -  Create Database Context
 -  OnModelCreating Method Overriding
 -  Using Entity Framework Core DbSet Generic Type 
+-  Register ShopOnlineDbContext class for Dependency Injection
