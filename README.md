@@ -33,4 +33,5 @@ Shopping Cart Application With Blazor Web Assembly with Payment gateway.
 -  Create Entities
 -  Create Connection String
 -  Insall Nuget Packages
--  
+-  Create Database Context
+-  OnModelCreating Method Overriding
