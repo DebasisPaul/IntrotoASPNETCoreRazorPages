@@ -25,8 +25,12 @@ Shopping Cart Application With Blazor Web Assembly with Payment gateway.
 
 # Part
 
-- 1 Introduction
-- 2 Tools
-- 3 What is Blazor Web Assembly?
-- 4 Create Blazor Project
-- 5 Create Web Api Project
+-  Introduction
+-  Tools
+-  What is Blazor Web Assembly?
+-  Create Blazor Project
+-  Create Web Api Project
+-  Create Entities
+-  Create Connection String
+-  Insall Nuget Packages
+-  
