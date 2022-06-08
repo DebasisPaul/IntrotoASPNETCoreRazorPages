@@ -23,6 +23,11 @@ Shopping Cart Application With Blazor Web Assembly with Payment gateway.
 - Problem: Add-Migration InitialCreate Not Working `Could not load assembly 'ShopOnline.Web'. Ensure it is referenced by the startup project 'ShopOnline.Api'.`
 - Solution: `https://www.thecodebuzz.com/build-failed-efcore-scaffold-dbcontext-command-pmc/`
 
+- Problem: `Add-Migration InitialCreate
+Build started...
+Build failed.`
+- Solution: Open ShopOnlineDbContext.cs file Then Check the code & find the error. Two error found at UserName. Open User.cs Entities. Correct the int to string type.
+
 # Part
 
 -  Introduction
