@@ -35,3 +35,4 @@ Shopping Cart Application With Blazor Web Assembly with Payment gateway.
 -  Insall Nuget Packages
 -  Create Database Context
 -  OnModelCreating Method Overriding
+-  Using Entity Framework Core DbSet Generic Type 
