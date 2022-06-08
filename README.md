@@ -16,6 +16,7 @@ Shopping Cart Application With Blazor Web Assembly with Payment gateway.
 6. REST ful MVC Web API
 7. POSTMAN
 8. Entitity Framework Core Code First Migration
+9. Entity Relatioship Diagram Link [Visit Here](https://lucid.app/lucidchart/969fa12e-1cb2-49bf-9e2d-3a89accc11ab/edit?viewport_loc=-65%2C-11%2C1707%2C872%2C0_0&invitationId=inv_534ffb26-27c6-4037-99ad-da8d6e9f0aa2#)
 
 # QA
 
